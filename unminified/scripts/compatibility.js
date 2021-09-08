@@ -14,7 +14,7 @@ function checkCompat(){
     if (safariAgent == true) {
         Swal.fire({
             titleText: 'Warning!',
-            text: 'You seem to be using Safari! Safari is not officially supported on this site. Some things may work but they may not, and there will not be any compatibility updates in the foreseeable future. Please use Chrome for best results.',
+            text: 'You seem to be using Safari! Safari is not officially supported on this site. Some things may work but they may not, and there will not be any compatibility updates in the foreseeable future. Please use Firefox for best results.',
             icon: 'warning',
             confirmButtonText: 'Continue Anyway',
             confirmButtonColor: BTColor,
